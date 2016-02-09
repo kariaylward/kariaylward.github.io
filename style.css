@@ -1,0 +1,197 @@
+body
+{
+	font-family: Arial, Verdana, sans-serif;
+	background-color:white;	
+	width: 95%;
+	max-width: 960px;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+	
+#content 
+{
+margin: 0%;	
+overflow: auto;
+
+}
+
+
+
+.featureimage
+{
+border-radius: 10px;
+margin-top: 10px;
+
+}
+
+
+footer
+{
+background-color:#759dbd; /*--light blue--*/
+color: white;
+font-weight: bold;
+}
+
+.heading
+{
+font-size: 20px;
+color: white;
+background-color: #759dbd;
+line-height:1px;
+}
+
+.paragraph
+{
+font-size: 12px;	
+}
+
+.heading2
+{
+	text-align: center;
+}
+
+
+.iframeimage
+{
+
+	margin-bottom: 1px;
+	margin-top: 1px;
+}
+
+.runvideo
+{
+	margin-right: 10%;
+	margin-left: 15%;
+	margin-bottom: 15px;
+}
+
+
+
+/*HEADER-NAV LIST*/
+header ul
+{
+
+margin: 0;
+padding: 0;
+overflow: hidden;	
+}
+header li
+{
+float: left;
+display: inline;
+padding: 0.5em;
+}
+
+
+/*CONTENT LIST CSS*/
+.content ul
+{	
+list-style-type: circle;
+color:  #000066;
+text-align: left;
+overflow: initial;
+}
+.content ul li
+{
+	display: block;
+}
+
+
+
+.content
+{
+color: #000066;	
+text-align: left;
+font-weight: bold;	
+margin-left: 35px;
+}
+
+#classes
+{
+	font-style: italic;
+	line-height: 1.4em;
+	text-decoration: underline;
+}
+
+a.navlink:link
+{
+color: white;
+text-decoration: none;
+display: block;
+
+font-weight: bold;
+text-align: center;
+padding: 2px
+}	
+
+a.navlink:visited
+{
+color: white;
+background-color: #759dbd;
+text-decoration: none;
+display: block;
+
+font-weight: bold;
+text-align: center;
+padding: 2px
+}
+
+a.navlink:hover
+{
+color:#000066; /*--navy--*/
+text-decoration: none;
+background-color: white;
+}
+
+a.navlink:active
+{
+color: #990000; /*--wine--*/
+text-decoration: none;
+background-color: white;
+}
+
+.currentlink
+{
+color: #ff0000;
+background-color: white;
+}
+
+a.textlink:link
+{
+color:#ff0000;
+text-decoration: underline;
+font-size: 14px;
+position: relative;
+}
+
+a.textlink:visited
+{
+color: #00ff00;
+text-decoration: underline;
+}
+
+a.textlink:active
+{
+color: #0000ff;
+}
+
+
+
+.styleform
+{
+background-color:#d9d9d9;
+color:#000066;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom:0px;
+margin-left: 0px;
+margin-right: 0px;
+max-width: 550px;
+padding: 0%;
+padding-top: 3%;
+padding-bottom: 5%;
+padding-left: 2%;
+padding-right: 0%;
+}
+

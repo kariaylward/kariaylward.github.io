@@ -1,0 +1,175 @@
+nav, footer
+{
+position: relative;
+background-color: #759dbd;
+color: white;
+padding: .5em;
+border-radius:5px;
+text-align: center;
+}
+	
+.logo
+{
+	padding-right: 0%;
+}	
+
+
+
+
+.column1, .column2, .column3, .column4
+{
+background-color:#759dbd; 
+color:white; 
+border: 5px solid #000066; 
+width: 21%;
+float: left;
+margin: 12px;
+min-width: 200px;
+padding: 1%;
+height: 15em;
+overflow: auto;
+margin-left: 0px;
+}
+
+.column4
+{
+margin-right: 0%
+}
+
+
+.pool1, .pool2, .pool3
+{
+background-color:#759dbd; 
+color:white; 
+border: 5px solid #000066; 
+width: 24%;
+float: left;
+margin: 50px;
+padding: 1%;
+height: 10em;
+overflow: auto;
+margin-left: 20px;
+margin-top: 1px;
+margin-bottom: 20px;
+}
+
+
+.pool3
+{
+margin-right: 0%
+}
+
+
+.contact1, .contact2
+{
+background-color:white; 
+color:#000066; 
+border: 5px solid #000066; 
+width: 40%;
+float: left;
+margin: 500px;
+
+padding: 0%;
+height: 17em;
+overflow: auto;
+margin-left: 35px;
+margin-top: 0px;
+margin-bottom: 20px;
+margin-right: 50px;
+padding-bottom: 0%;
+padding-left: 0%;
+}
+
+.infotext
+{
+background-color:#d9d9d9; 
+color:#000066; 
+border-radius: 10px; 
+width: 80%;
+float: left;
+margin: 500px;
+text-align: center;
+font-weight: bold;
+padding: 0%;
+height: 15em;
+overflow: auto;
+margin-left: 35px;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 50px;
+padding-bottom: 0%; 
+padding-left: 1%;
+padding-right: 10%;
+}
+
+.infotextrun
+{
+background-color:#d9d9d9; 
+color:#000066; 
+border-radius: 10px; 
+width: 80%;
+float: left;
+margin: 500px;
+text-align: center;
+font-weight: bold;
+padding: 0%;
+height: 8em;
+overflow: auto;
+margin-left: 35px;
+margin-top: 10px;
+margin-bottom: 20px;
+margin-right: 50px;
+padding-bottom: 0%;
+padding-left: 1%;
+padding-right: 10%;
+}
+
+
+
+#tablediv
+{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+table{
+	border-spacing: 3px;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	color: #000066;
+	
+}
+
+th, td
+{
+	padding: 5px 30px 5px 10px;
+	border-spacing: 0px;
+	font-size: 90%;
+	margin: 0px;
+}
+
+th, td
+{
+	text-align: center;
+	font-weight: bold;
+	background-color: #e0e9f0;
+	border-top: 1px solid #f1f8f3;
+	border-bottom: 1px solid #cbd2d8;
+	border-right: #cbd2d8;
+	
+}
+
+tr.head th
+{
+	color: #fff;
+	background-color: #6a9ac8;
+	border-bottom: 2px solid #547ca0;
+	border-right: 1px solid #749abe;
+	border-top: 1px solid #90b4d6;
+	text-align: center;
+	text-shadow: -1px -1px 1px #666666;
+	letter-spacing: 0.15em;
+}
